@@ -88,15 +88,15 @@ date: 2026-01-19
 <td class="label-col">購入リンク</td>
 <td>
   <a href="https://amzn.to/4qV6YWU" class="shop-link amz">Amazon</a>
-  <a href="https://hb.afl.rakuten.co.jp/hgc/g00r052a.mrvz6ea9.g00r052a.mrvz7d33/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGABA%2B%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25AA%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%2F" class="shop-link rkt">楽天</a>
+  <a href="https://hb.afl.rakuten.co.jp/hgc/g00r052a.mrvz6ea9.g00r052a.7c0297f9/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGABA%2B%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25AA%25E3%2583%25A1%25E3%2583%25B3%25E3%2583%2588%2F" class="shop-link rkt">楽天</a>
 </td>
 <td>
   <a href="https://amzn.to/4qV6YWU" class="shop-link amz">Amazon</a>
-  <a href="https://hb.afl.rakuten.co.jp/hgc/g00r052a.mrvz6ea9.g00r052a.mrvz7d33/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FL-%25E3%2583%2586%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25B3%2B%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25AA%2F" class="shop-link rkt">楽天</a>
+  <a href="https://hb.afl.rakuten.co.jp/hgc/g00r052a.mrvz6ea9.g00r052a.7c0297f9/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FL-%25E3%2583%2586%25E3%2582%25A2%25E3%2583%258B%25E3%2583%25B3%2B%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25AA%2F" class="shop-link rkt">楽天</a>
 </td>
 <td>
   <a href="https://amzn.to/4qV6YWU" class="shop-link amz">Amazon</a>
-  <a href="https://hb.afl.rakuten.co.jp/hgc/g00r052a.mrvz6ea9.g00r052a.mrvz7d33/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259B%25E3%2582%25B9%25E3%2583%2595%25E3%2582%25A1%25E3%2583%2581%25E3%2582%25B8%25E3%2583%25AB%25E3%2582%25BB%25E3%2583%25AA%25E3%2583%25B3%2B%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25AA%2F" class="shop-link rkt">楽天</a>
+  <a href="https://hb.afl.rakuten.co.jp/hgc/g00r052a.mrvz6ea9.g00r052a.7c0297f9/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259B%25E3%2582%25B9%25E3%2583%2595%25E3%2582%25A1%25E3%2583%2581%25E3%2582%25B8%25E3%2583%25AB%25E3%2582%25BB%25E3%2583%25AA%25E3%2583%25B3%2B%25E3%2582%25B5%25E3%2583%2597%25E3%2583%25AA%2F" class="shop-link rkt">楽天</a>
 </td>
 </tr>
 </tbody>
