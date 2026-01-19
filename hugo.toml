@@ -11,3 +11,7 @@ unsafe = true
   mainSections = ["posts"]
   summary_length = 0
   show_full_content = true
+  [params]
+  mainSections = ["posts"]
+  summary_length = 10000
+  show_full_content = true
