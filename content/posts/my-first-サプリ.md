@@ -38,7 +38,7 @@ date: 2026-01-19
   .return-btn { display: inline-block; padding: 8px 16px; border-radius: 20px; background: #f1f5f9; color: #475569; text-decoration: none; font-size: 12px; font-weight: bold; margin-top: 10px; border: 1px solid #e2e8f0; }
 </style>
 
-<div class="container" id="top">
+<div id="top">
 <h1>【2026年最新】集中力サプリおすすめ3選｜仕事の効率を劇的に変える脳のマネジメント術</h1>
 
 <div class="intro-section">
