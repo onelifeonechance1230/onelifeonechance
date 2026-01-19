@@ -7,7 +7,7 @@ theme = 'ananke'
 unsafe = true
 
 [params]
-  # 記事を途中で切らずに全部出す設定
+  # トップページで記事の全文を表示させるための設定
+  mainSections = ["posts"]
+  summary_length = 0
   show_full_content = true
-  # 自動要約の文字数をめちゃくちゃ多くしてカットを防ぐ
-  summary_length = 100000
