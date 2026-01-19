@@ -1,11 +1,13 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
+baseURL = 'https://supplement-hack.netlify.app/'
+languageCode = 'ja'
 title = 'サプリHACK'
 theme = 'ananke'
 
 [markup.goldmark.renderer]
-  unsafe = true
+unsafe = true
+
 [params]
-  mainSections = ["posts"]
-[params]
+  # 記事を途中で切らずに全部出す設定
   show_full_content = true
+  # 自動要約の文字数をめちゃくちゃ多くしてカットを防ぐ
+  summary_length = 100000
