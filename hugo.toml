@@ -5,3 +5,7 @@ theme = 'ananke'
 
 [markup.goldmark.renderer]
   unsafe = true
+[params]
+  mainSections = ["posts"]
+[params]
+  show_full_content = true
